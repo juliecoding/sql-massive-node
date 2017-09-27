@@ -1,0 +1,27 @@
+{
+  "name": "sql-massive-node",
+  "version": "1.0.0",
+  "description": "Today we're going to make our first full CRUD back-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliecoding/sql-massive-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliecoding/sql-massive-node/issues"
+  },
+  "homepage": "https://github.com/juliecoding/sql-massive-node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.5",
+    "massive": "^4.2.0"
+  }
+}
